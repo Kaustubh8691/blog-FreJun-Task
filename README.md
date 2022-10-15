@@ -1,5 +1,5 @@
 # blog-FreJun-Task.
-stpes-
+steps-
 ```
 1)do npm i 
 
